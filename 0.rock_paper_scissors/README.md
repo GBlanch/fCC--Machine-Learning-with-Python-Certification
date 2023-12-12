@@ -40,7 +40,9 @@ play(player, quincy, 1000, verbose=True)
 
 ### Testing
 
-The unit tests for this project are in `est_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience.The tests will therefore run automatically whenever you run the file `test_module.py`
+1. download the py files (x3) in their respective py files folders and also the csv files.
+2. Save them all in the same directory/folder.
+3. Open a terminal in VS Code - or any other IDE - and run the main.py file ("python main.py")
 
 ### Submitting
 
