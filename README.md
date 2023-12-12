@@ -5,7 +5,7 @@ In this course, I employ TensorFlow framework to build several Neural Networks a
 ## Projects:
 
   - **[Rock Paper Scissors]**
-  - **[Cat and Dog Image Classifier]**
+  - **[Cat and Dog Image Classifier]**(https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
   - **[Book Recommendation Engine using KNN]**
   - **[Linear Regression Health Costs Calculator]**
   - **[Neural Network SMS Text Classifier]**
