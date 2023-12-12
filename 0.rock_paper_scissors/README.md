@@ -40,7 +40,7 @@ play(player, quincy, 1000, verbose=True)
 
 ### Testing
 
-1. Download the py files from their respective py files folders and also the csv files.
+1. Download the 'py files' from their respective py files folders.
 2. Save them all in the same directory/folder.
 3. Open a terminal in VS Code - or any other IDE - and run the main.py file ("python main.py")
 
