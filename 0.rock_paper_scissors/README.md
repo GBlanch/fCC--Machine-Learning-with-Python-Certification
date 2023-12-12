@@ -22,7 +22,7 @@ Do not modify `RPS_game.py`. Write all your code in `RPS.py`. For development, y
 
 The file main.py imports the game function and bots from RPS_game.py.
 
-To test your code, play a game with the play function. The play function takes four arguments:
+To test your code, play a game with the play function. The `play` function takes four arguments:
 
 - two players to play against each other (the players are actually functions)
 - the number of games to play in the match
