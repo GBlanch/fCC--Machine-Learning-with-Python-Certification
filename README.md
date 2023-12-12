@@ -5,6 +5,10 @@ In this course, I employ TensorFlow framework to build several Neural Networks a
 ## Projects:
 
   - **[Rock Paper Scissors]**
+  - **[Cat and Dog Image Classifier]**
+  - **[Book Recommendation Engine using KNN]**
+  - **[Linear Regression Health Costs Calculator]**
+  - **[Neural Network SMS Text Classifier]**
 
 
 ## How to test these:
