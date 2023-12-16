@@ -21,7 +21,7 @@ cats_and_dogs
 
 You can tweak epochs and batch size if you like, but it is not required.
 
-In the interest of time, the following instructions such as Developement and Testing sections are detailed within docstrings at the notebook itself. Read the Colab notebook [here](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
+In the interest of time, the following instructions such as **Developement** and **Testing** sections are detailed within docstrings at the notebook itself. Read the Colab notebook [here](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
 
 ### Submitting
 
