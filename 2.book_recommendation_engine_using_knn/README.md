@@ -41,7 +41,5 @@ The first three cells import libraries you may need and the data to use. The fin
 
 ---
 
-Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
-
-In the interest of time, instructions such as **Developement** and **Testing** sections are detailed within docstrings at the notebook itself, instead of wihtin the above markdown. 
+Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb)
 
