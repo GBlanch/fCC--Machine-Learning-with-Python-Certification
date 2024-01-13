@@ -36,7 +36,7 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 ---
 
-Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
+Link to [my notebook solution](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb) to the challenge 
 
 **Note**: Instructions such as **Developement** and **Testing** sections are detailed within docstrings at the notebook itself, instead of within this markdown file. 
 
