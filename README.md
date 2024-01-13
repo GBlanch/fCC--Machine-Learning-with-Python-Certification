@@ -14,7 +14,7 @@ Thanks for reading this and happy coding!
 <br>
 
 # Projects:
-
+<br>
 
   - [Rock Paper Scissors]
   - [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
