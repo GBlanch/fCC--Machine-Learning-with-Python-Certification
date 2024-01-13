@@ -21,4 +21,4 @@ The final cell will also predict expenses using the `test_dataset` and graph the
 
 ---
 
-Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/3.linear_regression_health_costs_calc/fcc_predict_health_costs_with_regression_dec6.ipynb)
+Link to [my notebook solution](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/3.linear_regression_health_costs_calc/fcc_predict_health_costs_with_regression_dec6.ipynb) to the challenge 
