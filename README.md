@@ -27,6 +27,7 @@ Thanks for reading this and happy coding!
 --- 
 
 ### Understanding-the-test-function
+<br>
 
 The variable `recommends` which is being tested in the function *test_book_recommendation()* , must be a nested list and it has to satisfy, at least but not limited to, the following:
 
