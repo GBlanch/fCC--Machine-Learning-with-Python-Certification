@@ -19,5 +19,6 @@ To pass the challenge, `model.evaluate` must return a Mean Absolute Error of und
 
 The final cell will also predict expenses using the `test_dataset` and graph the results.
 
-<hr />
+---
 
+Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/3.linear_regression_health_costs_calc/fcc_predict_health_costs_with_regression_dec6.ipynb)
