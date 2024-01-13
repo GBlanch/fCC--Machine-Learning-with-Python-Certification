@@ -19,3 +19,5 @@ To pass the challenge, `model.evaluate` must return a Mean Absolute Error of und
 
 The final cell will also predict expenses using the `test_dataset` and graph the results.
 
+<hr />
+
