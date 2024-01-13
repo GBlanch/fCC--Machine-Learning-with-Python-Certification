@@ -2,6 +2,7 @@
 <br>
 
 Sourced from : [freeCodeCamp - Book Recommendation Engine using KNN](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator)
+<br>
 
 In this challenge, you will predict healthcare costs using a regression algorithm.
 
