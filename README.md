@@ -29,14 +29,6 @@ Thanks for reading this and happy coding!
 ### Understanding-the-test-function
 <br>
 
-The variable `recommends` which is being tested in the function *test_book_recommendation()* , must be a nested list and it has to satisfy, at least but not limited to, the following:
-
-- the first element must be the title (str) of the book being tested. (L7) (*'Where the Heart Is'*)
-- the second element must be another nested list - of at least 4 dimensions - , and inside each sublist:
-    - the first parameter must be the title of a book (str) and each parameter must be equal to the elements (str) of the list `recommended_books`. 
-    - the second parameter must be the distance(int) of the k-nearest neighbors of each book. The values of the elements (int) of the list `recommended_books_dist` will be subtracted to the ones of each parameter from `recommends`, and for each index (these have no limit) the absolute value of this difference (int) must be equal or smaller than .05 .(L14)
-
-
 ```python
 books = get_recommends("Where the Heart Is (Oprah's Book Club (Paperback))")
 print(books)
@@ -63,4 +55,13 @@ test_book_recommendation()
 ["Where the Heart Is (Oprah's Book Club (Paperback))", [["I'll Be Seeing You", 0.8016], ['The Weight of Water', 0.7709], ['The Surgeon', 0.7699], ['I Know This Much Is True', 0.7677]]]
 You passed the challenge! 🎉🎉🎉🎉🎉
 ```
+
+The variable `recommends` which is being tested in the function *test_book_recommendation()* , must be a nested list and it has to satisfy, at least but not limited to, the following:
+
+- the first element must be the title (str) of the book being tested. (L7) (*'Where the Heart Is'*)
+- the second element must be another nested list - of at least 4 dimensions - , and inside each sublist:
+    - the first parameter must be the title of a book (str) and each parameter must be equal to the elements (str) of the list `recommended_books`. 
+    - the second parameter must be the distance(int) of the k-nearest neighbors of each book. The values of the elements (int) of the list `recommended_books_dist` will be subtracted to the ones of each parameter from `recommends`, and for each index (these have no limit) the absolute value of this difference (int) must be equal or smaller than .05 .(L14)
+
+
 [Back to Foreword](#foreword)
