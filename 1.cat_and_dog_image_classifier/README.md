@@ -1,6 +1,7 @@
 **Note**: In the interest of time, the following instructions such as **Developement** and **Testing** sections are detailed within docstrings at the notebook itself. Read the Colab notebook [here](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
 
 ## Cat and Dog Image Classifier
+<br>
 
 Sourced from : [freeCodeCamp - Cat and Dog Image Classifier](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier)
 
