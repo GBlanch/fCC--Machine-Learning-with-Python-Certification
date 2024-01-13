@@ -21,6 +21,7 @@ Thanks for reading this and happy coding!
   - [Linear Regression Health Costs Calculator](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/3.linear_regression_health_costs_calc)
   - [Neural Network SMS Text Classifier]
 
+<br>
   
 ### Understanding-the-test-function
 
