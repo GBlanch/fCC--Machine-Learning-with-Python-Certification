@@ -1,6 +1,5 @@
 ## Linear Regression Health Costs Calculator
-
-
+<br>
 
 In this challenge, you will predict healthcare costs using a regression algorithm.
 
