@@ -1,5 +1,9 @@
 ## Rock Paper Scissors
+
+Sourced from : [freeCodeCamp - Book Recommendation Engine using KNN](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors)
+
 <br>
+
 
 For this challenge, you will create a program to play _Rock, Paper, Scissors_. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
 
@@ -49,4 +53,3 @@ play(player, quincy, 1000, verbose=True)
 
 Copy your project's URL and submit it to freeCodeCamp.
 
-Sourced from : https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
