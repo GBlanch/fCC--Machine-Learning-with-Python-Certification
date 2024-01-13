@@ -3,9 +3,7 @@
 
 ## On some preferable practices of problem solving when coding
 
-As similarly occurred to me when solving the challenges for the course _fCC DA with Python_, the cornerstone to tackle and solve these problems was to commence by **understanding** the **test_module** and its classes and methods. In the case of this ML course,  since an IDE is being used to develop and test the all the code, it's about understanding the  **test_function**.
-
-[Go to _Understanding the **test_function**_](#understanding-the-test-function)
+As similarly occurred to me when solving the challenges for the course _fCC DA with Python_, the cornerstone to tackle and solve these problems was to commence by **understanding** the **test_module** and its classes and methods. In the case of this ML course,  since an IDE is being used to develop and test the all the code, it's about [understanding the  **test_function**](#understanding-the-test-function).
 
 Another noteworthy habit that helped me organize and map what I was coding was to utilize constants and variables as much as conviniently possible. That also helped me tweak my code and re-plan my steps when facing deadends in my initial mapping or when encountering inescapable Exceptions.
 
