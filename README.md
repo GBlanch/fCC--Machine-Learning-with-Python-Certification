@@ -14,7 +14,7 @@ Nonetheless, and prior to taking any small reverse engineering approach, I tried
 Thanks for reading this and happy coding!
 
 
-## Projects:
+# Projects:
 
 
   - [Rock Paper Scissors]
@@ -24,7 +24,7 @@ Thanks for reading this and happy coding!
   - [Neural Network SMS Text Classifier]
 
   
-# Understanding-the-test-function
+### Understanding-the-test-function
 
 The variable `recommends` which is being tested, must be a nested list and it has to satisfy, at least but not limited to, the following:
 
