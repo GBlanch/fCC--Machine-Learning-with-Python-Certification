@@ -24,7 +24,7 @@ Thanks for reading this and happy coding!
   
 ### Understanding-the-test-function
 
-The variable `recommends` which is being tested, must be a nested list and it has to satisfy, at least but not limited to, the following:
+The variable `recommends` which is being tested in the function *test_book_recommendation()* , must be a nested list and it has to satisfy, at least but not limited to, the following:
 
 - the first element must be the title (str) of the book being tested. (L7) (*'Where the Heart Is'*)
 - the second element must be another nested list - of at least 4 dimensions - , and inside each sublist:
