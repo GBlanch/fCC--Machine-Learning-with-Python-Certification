@@ -41,5 +41,5 @@ The first three cells import libraries you may need and the data to use. The fin
 
 ---
 
-Link to [my solution to the challenge](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb)
+Link to [my notebook solution](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb) to the challenge 
 
