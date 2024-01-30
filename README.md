@@ -27,7 +27,7 @@ Thanks for reading this and happy coding!
 
 --- 
 
-### Understanding-the-test-function
+## Understanding-the-test-function
 <br>
 
 ```python
