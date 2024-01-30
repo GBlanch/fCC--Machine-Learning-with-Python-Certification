@@ -19,8 +19,6 @@ The file `RPS.py`shows an example function that you will need to update. The `pl
 
 The function is never called with a second argument so that one is completely optional. The reason why the example function contains a second argument (opponent_history = []) is because that is the only way to save state between consecutive calls of the player function. You only need the `opponent_history` argument if you want to keep track of the opponent history.
 
-_Hint: To defeat all four opponents, your program may need to have `multiple strategies` that change depending on `the plays of the opponent`._
-
 ### Development
 
 Do not modify `RPS_game.py`. Write all your code in `RPS.py`. For development, you can use `main.py` to test your code.
@@ -45,9 +43,9 @@ play(player, quincy, 1000, verbose=True)
 
 ### Testing
 
-1. Download the 'py files' from their respective py files folders.
-2. Save them all in the same directory/folder.
-3. Open a terminal in VS Code - or any other IDE - and run the main.py file ("python main.py")
+The RPS.py file can be run in [my Replit rep](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors#RPS.py)
+
+Alternatively, you can download the py files and run the main.py file locally or in your VM.
 
 ### Submitting
 
