@@ -5,6 +5,8 @@ This is the boilerplate for the Rock Paper Scissors project. Instructions for bu
 
 ## Testing
 
+[My Replit repl](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors)
+
 To test the `RPS.py` file simply touch onto the _`Run`_ green button.
 The rest of the environment configuration and python files were provided by freeCodeCamp, as indicated in the link above.
 
