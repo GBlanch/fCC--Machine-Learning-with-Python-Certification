@@ -14,7 +14,7 @@ Thanks for reading this and happy coding!
 
 <br>
 
-# Projects:
+# Problems:
 <br>
 
   - ### [Rock Paper Scissors](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors#RPS.py)
