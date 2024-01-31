@@ -15,7 +15,7 @@
 
 
 
-## Problems:
+## Problems
 
   - ### [Rock Paper Scissors](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors#RPS.py)
   - ### [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
