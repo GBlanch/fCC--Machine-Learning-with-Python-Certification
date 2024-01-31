@@ -1,66 +1,17 @@
-# Foreword
-(Sourced from my solution to the challenge [*Book_recommendation_engine_using_knn*](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb))
+## Neural Network SMS Text Classifier
 
-## On some preferable practices of problem solving when coding
-
-As similarly occurred to me when solving the challenges for the course _fCC DA with Python_, the cornerstone to tackle and solve these problems was to commence by **understanding** the **test_module** and its classes and methods. In the case of this ML course,  since an IDE is being used to develop and test the all the code, it's about [understanding the  **test_function**](#understanding-the-test-function).
-
-Another noteworthy habit that helped me organize and map what I was coding was to utilize constants and variables as much as conviniently possible. That also helped me tweak my code and re-plan my steps when facing deadends in my initial mapping or when encountering inescapable Exceptions.
-
-Nonetheless, and prior to taking any small reverse engineering approach, I tried to stay up-close to some key principles which are a _sine qua non_ requisits in each and every project, whatever their size and scope can be. These are **understanding the problem statement** - to the extent as though _you created it_ - , **exploring** and **becoming oneself familiar with the provided datasets**.
-
-Thanks for reading this and happy coding!
+Sourced from : [freeCodeCamp - Neural Network SMS Text Classifier](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier)
 
 <br>
 
-# Projects:
-<br>
+In this challenge, you need to create a machine learning model that will classify SMS messages as either "ham" or "spam". A "ham" message is a normal message sent by a friend. A "spam" message is an advertisement or a message sent by a company.
 
-  - [Rock Paper Scissors]
-  - [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
-  - [Book Recommendation Engine using KNN](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/2.book_recommendation_engine_using_knn)
-  - [Linear Regression Health Costs Calculator](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/3.linear_regression_health_costs_calc)
-  - [Neural Network SMS Text Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/4.neural_network_sms_text_classifier/fcc_sms_text_classification.ipynb)
+You should create a function called predict_message that takes a message string as an argument and returns a list. The first element in the list should be a number between zero and one that indicates the likeliness of "ham" (0) or "spam" (1). The second element in the list should be the word "ham" or "spam", depending on which is most likely.
 
-<br>
+For this challenge, you will use the SMS Spam Collection dataset. The dataset has already been grouped into train data and test data.
 
---- 
+The first two cells import the libraries and data. The final cell tests your model and function. Add your code in between these cells.
 
-### Understanding-the-test-function
-<br>
+---
 
-The variable `recommends` which is being tested in the function *test_book_recommendation()* , must be a nested list and it has to satisfy, at least but not limited to, the following:
-
-- the first element must be the title (str) of the book being tested. (L7) (*'Where the Heart Is'*)
-- the second element must be another nested list - of at least 4 dimensions - , and inside each sublist:
-    - the first parameter must be the title of a book (str) and each parameter must be equal to the elements (str) of the list `recommended_books`. 
-    - the second parameter must be the distance(int) of the k-nearest neighbors of each book. The values of the elements (int) of the list `recommended_books_dist` will be subtracted to the ones of each parameter from `recommends`, and for each index (these have no limit) the absolute value of this difference (int) must be equal or smaller than .05 .(L14)
-
-
-```python
-books = get_recommends("Where the Heart Is (Oprah's Book Club (Paperback))")
-print(books)
-
-def test_book_recommendation():
-  test_pass = True
-  recommends = get_recommends("Where the Heart Is (Oprah's Book Club (Paperback))")
-  if recommends[0] != "Where the Heart Is (Oprah's Book Club (Paperback))":
-    test_pass = False
-  recommended_books = ["I'll Be Seeing You", 'The Weight of Water', 'The Surgeon', 'I Know This Much Is True']
-  recommended_books_dist = [0.8, 0.77, 0.77, 0.77]
-  for i in range(2):
-    if recommends[1][i][0] not in recommended_books:
-      test_pass = False
-    if abs(recommends[1][i][1] - recommended_books_dist[i]) >= 0.05:
-      test_pass = False
-  if test_pass:
-    print("You passed the challenge! 🎉🎉🎉🎉🎉")
-  else:
-    print("You haven't passed yet. Keep trying!")
-
-test_book_recommendation()
-
-["Where the Heart Is (Oprah's Book Club (Paperback))", [["I'll Be Seeing You", 0.8016], ['The Weight of Water', 0.7709], ['The Surgeon', 0.7699], ['I Know This Much Is True', 0.7677]]]
-You passed the challenge! 🎉🎉🎉🎉🎉
-```
-[Back to Foreword](#foreword)
+Link to [my notebook solution](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/4.neural_network_sms_text_classifier/fcc_sms_text_classification.ipynb) to this challenge 
