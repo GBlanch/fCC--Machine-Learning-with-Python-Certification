@@ -2,6 +2,7 @@
 
 (Sourced from my solution to the challenge [*Book_recommendation_engine_using_KNN*](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb))
 
+> <span style="color: blue;"
 > ### On some preferable practices of problem solving when coding
 >
 > As similarly occurred to me when solving the challenges for the course _fCC DA with Python_, the cornerstone to tackle and solve these problems was to commence by **understanding** the **test_module** and its classes and methods. In the case of this ML course, since an IDE is being used to develop and test all the code, it's about [understanding the **test_function**](#understanding-the-test-function).
@@ -11,8 +12,7 @@
 > Nonetheless, and prior to taking any small reverse engineering approach, I tried to stay up-close to some key principles which are a _sine qua non_ requisites in each and every project, whatever their size and scope can be. These are **understanding the problem statement** - to the extent as though _you created it_ - , **exploring** and **becoming oneself familiar with the provided datasets**.
 >
 > <span style="color: blue;">Your indented text here.</span>
->
-> Thanks for reading this and happy coding!
+> Thanks for reading this and happy coding!</span>
 
 
 
