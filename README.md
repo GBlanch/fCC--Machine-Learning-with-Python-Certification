@@ -10,6 +10,8 @@
 >
 > Nonetheless, and prior to taking any small reverse engineering approach, I tried to stay up-close to some key principles which are a _sine qua non_ requisites in each and every project, whatever their size and scope can be. These are **understanding the problem statement** - to the extent as though _you created it_ - , **exploring** and **becoming oneself familiar with the provided datasets**.
 >
+> <span style="color: blue;">Your indented text here.</span>
+>
 > Thanks for reading this and happy coding!
 
 
