@@ -1,6 +1,6 @@
 ## Foreword
 
-(Sourced from my solution to the challenge [*Book_recommendation_engine_using_KNN*](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb))
+Sourced from my solution to the challenge [*Book_recommendation_engine_using_KNN*](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb):
 
 
 > ### On some preferable practices of problem solving when coding
