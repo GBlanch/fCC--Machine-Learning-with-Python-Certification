@@ -1,4 +1,4 @@
-# Foreword
+## Foreword
 
 (Sourced from my solution to the challenge [*Book_recommendation_engine_using_KNN*](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb))
 
@@ -14,7 +14,7 @@ Thanks for reading this and happy coding!
 
 <br>
 
-# Problems:
+## Problems:
 
   - ### [Rock Paper Scissors](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors#RPS.py)
   - ### [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
