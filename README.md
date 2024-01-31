@@ -69,3 +69,5 @@ The variable `recommends` which is being tested in the function *test_book_recom
 
 ![Machine Learning Developer Certification](https://raw.githubusercontent.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/main/ML_Developer_certification.png)
 
+[Verify this certification](https://www.freecodecamp.org/certification/GBlanch/machine-learning-with-python-v7)
+
