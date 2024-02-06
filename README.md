@@ -19,9 +19,9 @@
 ## Problems
 
   - ### [Rock Paper Scissors](https://replit.com/@gblandugar/boilerplate-rock-paper-scissors#RPS.py)
-  - ### [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/1.cat_and_dog_image_classifier)
-  - ### [Book Recommendation Engine using KNN](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/2.book_recommendation_engine_using_knn)
-  - ### [Linear Regression Health Costs Calculator](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/tree/main/3.linear_regression_health_costs_calc)
+  - ### [Cat and Dog Image Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/1.cat_and_dog_image_classifier/fcc_cat_dog-400ep-gb.ipynb)
+  - ### [Book Recommendation Engine using KNN](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/2.book_recommendation_engine_using_knn/fcc_book_recommendation_knn_dec30.ipynb)
+  - ### [Linear Regression Health Costs Calculator](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/3.linear_regression_health_costs_calc/fcc_predict_health_costs_with_regression_dec6.ipynb)
   - ### [Neural Network SMS Text Classifier](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification/blob/main/4.neural_network_sms_text_classifier/fcc_sms_text_classification.ipynb)
 
 <br>
