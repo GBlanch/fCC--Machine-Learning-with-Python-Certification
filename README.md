@@ -1,4 +1,4 @@
-# freeCodeCamp Machine Learning with Python 
+# freeCodeCamp Machine Learning with Python Cert.
 
 ## Foreword
 
